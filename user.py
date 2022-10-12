@@ -1,0 +1,8 @@
+print("Введите ваше имя: ")
+name = input()
+print("Введите ваш возраст: ")
+age = input()
+print("Введите место жительства: ")
+adress = input()
+print("This is " + name + " It is " + age + " S(he) live in " + adress)
+input('Press ENTER to exit') 

@@ -1,0 +1,7 @@
+num1 = float(input("Enter 1 number: "))
+num2 = float(input("Enter 2 number: "))
+num3 = float(input("Enter 3 number: "))
+num4 = float(input("Enter 4 number: "))
+res = (num1 + num2) / (num3 + num4)
+print("Result: ", '%.2f' %res)
+input("Press ENTER to exit")
